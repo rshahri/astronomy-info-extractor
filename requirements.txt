@@ -1,6 +1,8 @@
 streamlit
 requests
 beautifulsoup4
+reportlab
+ephem
 pandas
 plotly
 numpy
